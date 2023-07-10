@@ -9,6 +9,11 @@ Ping is a group chatting app developed using Flutter. It allows users to create 
 - Group management: Group admins can invite members to join the group and remove members.
 - Real-time messaging: Users can send and receive messages in real time within their groups.
 
+## Screenshots
+![WhatsApp Image 2023-07-10 at 20 49 13](https://github.com/suman1406/Ping/assets/119001618/786c4124-b86a-4891-97b4-b71c5104effa)
+![WhatsApp Image 2023-07-10 at 20 49 17](https://github.com/suman1406/Ping/assets/119001618/6c5b66d4-19ac-4913-bf89-39f657ab9c97)
+![WhatsApp Image 2023-07-10 at 20 49 17](https://github.com/suman1406/Ping/assets/119001618/e75c376b-c733-487d-a4a6-9cf1b9a3af51)
+
 ## Dependencies
 
 Ping relies on the following dependencies:
