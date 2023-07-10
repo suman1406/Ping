@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1093883851064",
+    "project_id": "reelay-82a7e",
+    "storage_bucket": "reelay-82a7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093883851064:android:8a1c817737f04991b251cd",
+        "android_client_info": {
+          "package_name": "com.chat.ping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093883851064-nuom358e88cur6dhmg4pc76lk5rp2j6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chat.ping",
+            "certificate_hash": "eafb422b9a3dbcac15b7426ba25c79e7a79eba42"
+          }
+        },
+        {
+          "client_id": "1093883851064-sav77ch47qid0i0bfd2pom70bg78ns0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR4k0PEBGgPm_KuGs0id0_H00KuAmWYLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093883851064-sav77ch47qid0i0bfd2pom70bg78ns0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
